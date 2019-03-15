@@ -1,3 +1,4 @@
 ini untuk testing merge conflict
+isi baris ke 2 dari local
 ini adalah isi file p3
 ini adalah isi baris ke 2 (testing merge conflict)
