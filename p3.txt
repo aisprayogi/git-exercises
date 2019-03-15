@@ -1,1 +1,2 @@
+ini untuk testing merge conflict
 ini adalah isi file p3
