@@ -1,2 +1,3 @@
+ini untuk testing merge conflict
 ini adalah isi file p3
 ini adalah isi baris ke 2 (testing merge conflict)
