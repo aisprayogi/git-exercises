@@ -1,2 +1,3 @@
 ini untuk testing merge conflict
 ini adalah isi file p3
+baris ke 3
